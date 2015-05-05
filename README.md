@@ -3,16 +3,14 @@
 Just a blank scaffold theme for the [October CMS](https://github.com/octobercms/october).
 
 ## Installation
-([Pull request](https://github.com/octobercms/october/pull/1083) not yet implemented)
 
-`php artisan theme:install krisawzm.blank <theme-dir>`
+`$ php artisan theme:install krisawzm.blank <theme-dir>`
 
 Replace `<theme-dir>` with whatever fits the project you're building.
 
 ## Activate the theme
-([Pull request](https://github.com/octobercms/october/pull/1083) not yet implemented)
 
-`php artisan theme:use <name>`
+`$ php artisan theme:use <name>`
 
 Where `<name>` is whatever you specified in `theme:install`.
 
